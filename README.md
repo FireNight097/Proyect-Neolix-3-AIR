@@ -32,9 +32,9 @@ Música propia del mod "Extra Slot Neolix", solo que separada del personaje (si 
 
 ![Icon-64px](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/62951ec0-86be-421f-b70f-b3a5cdcd2eb6)
 
-[Development Ideas and old versions]
+[Development Ideas]
 
-Aqui se encuentran algunas cosas e ideas que se me ocurieron, moveset y versiones anteriores de los mods.
+Aqui se encuentran algunas cosas e ideas que se me ocurieron durante el tiempo
 [Se iran sumando mas cosas durante el desarrollo de los mismos]
 
 [Versión espejo de Neolix]
@@ -45,3 +45,7 @@ Aqui se encuentran algunas cosas e ideas que se me ocurieron, moveset y versione
 
 [Una versión temprana de Neolix]
 ![Neolix (Beta Old Design) ](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/eb9feb52-249f-41ff-a3a8-7b863d588fce)
+
+3.Old Versions
+
+Bueno, se explica solo, versiones anteriores

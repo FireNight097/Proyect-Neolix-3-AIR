@@ -45,7 +45,3 @@ Aqui se encuentran algunas cosas e ideas que se me ocurieron durante el tiempo
 
 [Una versión temprana de Neolix]
 ![Neolix (Beta Old Design) ](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/e9b97d71-80b0-4303-bdec-fd517fc9c840)
-
-3.Old Versions
-
-Bueno, se explica solo, versiones anteriores

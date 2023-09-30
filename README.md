@@ -5,7 +5,7 @@ Información sobre el proyecto
 [Extra Slot Neolix]
 
 Neolix, un aliado de otra dimensión llega a Sonic 3 AIR.
-[Trabajo aun en progreso, pequeño vistaso a una versión temprana de una animación propia para el super pell out usando a Kirby de base, ayuda puede se necesaria]
+[Trabajo aun en progreso, pequeño vistaso a una versión temprana de una animación propia para el super pell out usando a Kirby de base, ayuda puede ser necesaria]
 
 ![Neolix Unique Super Pell Out animation (Kirby Form) ](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/acd4edc7-c1ef-4cb7-a2a9-51b6e0bceb1b)
 

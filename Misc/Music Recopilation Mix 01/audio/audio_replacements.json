@@ -1,0 +1,34 @@
+{
+
+        // AIZ 1
+        "01_CD": { "File": "AIZ1 Alt 2.ogg", "Type": "Music", "LoopStart": "267291", "Name": "Salad Island Act 1" },
+        "01_CD_Fast": { "File": "AIZ1 Alt 2 Fast.ogg", "Type": "Music", "LoopStart": "78172", "Name": "Salad Island Act 1 (Fast)" },
+
+        // MGZ 1
+        "05_S4E2": { "File": "MGZ1 Alt 2.ogg", "Type": "Music", "LoopStart": "132128", "Name": "Sylvania Garden Act 1 |16-bit|" },
+        "05_S4E2_Fast": { "File": "MGZ1 Alt 2 Fast.ogg", "Type": "Music", "LoopStart": "105703", "Name": "Sylvania Garden Act 1 |16-bit| (Fast)" },
+
+        // CNZ 2
+        "08_S4E2": { "File": "CNZ2 Alt 2.ogg", "Type": "Music", "LoopStart": "329828", "Name": "Carnival Park Act 2 |16-bit|" },
+        "08_S4E2_Fast": { "File": "CNZ2 Alt 2 Fast.ogg", "Type": "Music", "LoopStart": "259151", "Name": "Carnival Park Act 2 |16-bit| (Fast)" },
+
+        // FBZ 2
+        "0a_S4E2": { "File": "FBZ2 Alt 2.ogg", "Type": "Music", "Name": "Flying Fortress Act 2 |16-bit|" },
+        "0a_S4E2_Fast": { "File": "FBZ2 Alt 2 Fast.ogg", "Type": "Music", "Name": "Flying Fortress Act 2 |16-bit| (Fast)" },
+
+        // Boss Theme
+        "19_Kirby": { "File": "Kirby Boss Theme Medley 8 Bit.ogg", "Type": "Music", "LoopStart": "129267", "Name": "Boss Medley |8-bit|" },
+
+        // Azure Lake
+        "20_Melee": { "File": "ALZ Alt 2.ogg", "Type": "Music", "LoopStart": "88457", "Name": "Break the Lake" },
+
+        // Emerald Mine (in rework)
+        "24_Mix_01": { "File": "EMZ - Neolix 3 AIR.ogg", "Type": "Music", "Name": "Running through a Forgotten Mine" },
+
+        // Title Screen
+	"25_Mix_02": { "File": "Title Screen - Neolix 3 AIR.ogg", "Type": "Jingle", "Name": "A new place, another Adventure" },
+
+        // Ending
+        "dc_Viewpoint": { "File": "Ending-Neo.ogg", "Type": "Music", "Name": "Mes Volutes Bleues (Ending)" }
+
+}

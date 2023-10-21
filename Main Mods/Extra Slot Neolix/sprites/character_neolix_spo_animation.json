@@ -1,0 +1,11 @@
+{
+	"e_pell_out_1":  { "File": "character_neolix_spo_animation.png", "Rect": "0,4,25,38", "Center": "13,36" },
+	"e_pell_out_2":  { "File": "character_neolix_spo_animation.png", "Rect": "32,0,25,42", "Center": "13,41" },
+	"e_pell_out_3":  { "File": "character_neolix_spo_animation.png", "Rect": "64,0,25,45", "Center": "13,41" },
+	"e_pell_out_4":  { "File": "character_neolix_spo_animation.png", "Rect": "100,0,24,45", "Center": "14,41" },
+	"e_pell_out_5":  { "File": "character_neolix_spo_animation.png", "Rect": "128,0,26,47", "Center": "16,42" },
+	"e_pell_out_6":  { "File": "character_neolix_spo_animation.png", "Rect": "167,0,25,45", "Center": "13,41" },
+	"e_pell_out_7":  { "File": "character_neolix_spo_animation.png", "Rect": "196,0,24,46", "Center": "11,41" },
+	"e_pell_out_8":  { "File": "character_neolix_spo_animation.png", "Rect": "230,0,26,47", "Center": "12,42" },
+	"e_pell_out_9":  { "File": "character_neolix_spo_animation.png", "Rect": "256,8,32,32", "Center": "16,38" }
+}

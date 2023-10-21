@@ -1,0 +1,46 @@
+{
+	"Metadata":
+	{
+		"Name": "Mecha S-pid (WIP)",
+		"Author": "FireNight097",
+		"UniqueID": "neolix-3-air-spider",
+		"Description": "Remplaza el jefe de Hydrocity Zone Act 1 con una Copia de un Viejo Amigo de Neolix.
+
+Replace the Hydrocity Zone Act 1 Boss with a Copy of an Old Friend of Neolix.",
+		"URL": "https://github.com/FireNight097/Proyect-Neolix-3-AIR.git",
+		"ModVersion": "2.0",
+		"GameVersion": "22.9.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "MSpidMusic",
+                               "DisplayName": "Boss Music",
+                               "Variable": "spider.music",
+                               "Category": "Tweaks",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "An Mecha-Old Friend",
+                                       "2": "Paradox Battle"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MSpidKnuk",
+                               "DisplayName": "Mecha S-pid for Knuckles?",
+                               "Variable": "spider.knuk",
+                               "Category": "Tweaks",
+                               "DefaultValue": "0",
+                               "Options":
+                               {
+                                       "0": "No",
+                                       "1": "Yes"
+                               }
+                         }
+                ]
+        }
+}

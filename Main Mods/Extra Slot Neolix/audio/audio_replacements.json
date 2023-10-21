@@ -1,0 +1,34 @@
+{
+
+        // MGZ 2
+        "06_lix": { "File": "MGZ 2-Neo.ogg", "Type": "Music", "Name": "Old Garden Act 2 |8-bit|" },
+        "06_lix_Fast": { "File": "MGZ 2-Neo F.ogg", "Type": "Music", "Name": "Old Garden Act 2 |8-bit| (Fast)" },
+
+        // FBZ 2
+        "0a_lix": { "File": "FBZ 2-Neo.ogg", "Type": "Music", "LoopStart": "56462", "Name": "Flying Battery Act 2 |Kor Mix|" },
+        "0a_lix_Fast": { "File": "FBZ 2-Neo F.ogg", "Type": "Music", "LoopStart": "46197", "Name": "Flying Battery Act 2 |Kor Mix| (Fast)" },
+
+        // ICZ 2
+        "0c_lix": { "File": "ICZ 2-Neo.ogg", "Type": "Music", "Name": "Ice Times Act 2 |Advance|" },
+        "0c_lix_Fast": { "File": "ICZ 2-Neo F.ogg", "Type": "Music", "Name": "Ice Times Act 2 |Advance| (Fast)" },
+
+        // MHZ 2
+        "10_lix": { "File": "MHZ 2-Neo.ogg", "Type": "Music", "LoopStart": "189309", "Name": "Mushroom Jungle Act 2 |Alpha Mix|" },
+        "10_lix_Fast": { "File": "MHZ 2-Neo F.ogg", "Type": "Music", "LoopStart": "152669", "Name": "Mushroom Jungle Act 2 |Alpha Mix| (Fast)" },
+
+        // SOZ 2
+        "12_lix": { "File": "SOZ 2-Neo.ogg", "Type": "Music", "Name": "Mirrotropolis Act 2 |8-bit|" },
+        "12_lix_Fast": { "File": "SOZ 2-Neo F.ogg", "Type": "Music", "Name": "Mirrotropolis Act 2 |8-bit| (Fast)" },
+
+        // SSZ
+        "15_lix": { "File": "SSZ-Neo.ogg", "Type": "Music", "LoopStart": "122403", "Name": "Cloud Sanctuary |8-bit|" },
+        "15_lix_Fast": { "File": "SSZ-Neo F.ogg", "Type": "Music", "Name": "Cloud Sanctuary |8-bit| (Fast)" },
+
+        // DEZ 1
+        "16_lix": { "File": "DEZ1 Alt 2.ogg", "Type": "Music", "Name": "Death Egg Stage 2 |16-bit|" },
+        "16_lix_Fast": { "File": "DEZ1 Alt 2 Fast.ogg", "Type": "Music", "Name": "Death Egg Stage 2 |16-bit| (Fast)" },
+
+        // SpeedShoes Music
+        "Bike_Beat": { "File": "Speed Shoes Theme - Neolix 3 AIR.ogg", "Type": "Music", "Name": "Euro Speedshoes" }
+
+}

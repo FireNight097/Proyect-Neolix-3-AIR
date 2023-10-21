@@ -1,0 +1,39 @@
+function u64 Standalone.getModdedSoundKey(u64 soundKey, u8 sfxId, u8 soundRegType)
+{
+    if (sfxId == 0x0a && Mods.isModActive("Unique Knuckles and Extra Slot Songs"))
+    {
+        if (global.xtrachar == 97)
+            return "0a_lix"
+    }
+    else if (sfxId == 0x06 && Mods.isModActive("Unique Knuckles and Extra Slot Songs"))
+    { 
+        if (global.xtrachar == 97)
+            return "06_lix"
+    }
+    else if (sfxId == 0x0c && Mods.isModActive("Unique Knuckles and Extra Slot Songs"))
+    { 
+        if (global.xtrachar == 97)
+            return "0c_lix"
+    }
+    else if (sfxId == 0x10 && Mods.isModActive("Unique Knuckles and Extra Slot Songs"))
+    { 
+        if (global.xtrachar == 97)
+            return "10_lix"
+    }
+    else if (sfxId == 0x12 && Mods.isModActive("Unique Knuckles and Extra Slot Songs"))
+    {
+        if (global.xtrachar == 97)
+            return "12_lix"
+    }
+    else if (sfxId == 0x15 && Mods.isModActive("Unique Knuckles and Extra Slot Songs"))
+    {
+        if (global.xtrachar == 97)
+            return "15_lix"
+    }
+    else if (sfxId == 0x16 && Mods.isModActive("Unique Knuckles and Extra Slot Songs"))
+    {
+        if (global.xtrachar == 97)
+            return "16_lix"
+    }
+    return base.Standalone.getModdedSoundKey(soundKey, sfxId, soundRegType)
+}

@@ -25,10 +25,10 @@ Otro "custom boss", pero para "Hydro City Zone Act 1", remplaza a "Big Shaker" c
 
 2.Misc
 
-[Neo Cassette]
+[Music Recopilation Mix 01]
 
-Música propia del mod "Extra Slot Neolix", solo que separada del personaje (si es que alguien quiere usar las musicas fuera de el personaje, junto con algunos bonus).
-[Músicas en progreso, pero puedes disfrutar de algunas canciones que me gustan]
+Una Selección de varias musicas que me gustan y otras creadas por mi.
+[Musicas propias en espera, pero puedes escuchar las otras musicas]
 
 ![Icon-64px](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/4a7a930e-1b17-4c92-810a-2703d5f12ae8)
 

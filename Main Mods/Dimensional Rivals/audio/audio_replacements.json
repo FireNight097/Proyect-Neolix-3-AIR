@@ -1,0 +1,18 @@
+{
+       
+        // VS S-pid
+        "Synth_Spider": { "File": "VS S-pid (S3AIR).ogg", "Type": "Music", "Name": "A Cybernetic Spider From... The Future?" },
+  
+        // VS Mekran
+        "Magic_Jester": { "File": "VS Mekran (S3AIR).ogg", "Type": "Music", "Name": "The Jester of an Old World" },
+
+        // VS Pawter
+        "Robotic_Chase": { "File": "VS Pawter (S3AIR).ogg", "Type": "Music", "Name": "Race in the Heights" },
+
+        // VS Ghoutex
+        "Vessel_Voice": { "File": "VS Ghoutex (S3AIR).ogg", "Type": "Music", "Name": "An Undead Vessel" },
+
+        // Misc
+        "Paradox_Battle": { "File": "VS S-pid (Area Zero Battle 8-bit).ogg", "Type": "Music", "LoopStart": "64937", "Name": "Battle! Area Zero - Branflakes" }
+
+}

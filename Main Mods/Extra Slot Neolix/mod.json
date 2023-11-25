@@ -1,0 +1,45 @@
+{
+	"Metadata":
+	{
+		"Name": "Extra Slot Neolix (WIP)",
+		"Author": "FireNight097",
+		"UniqueID": "extra-slot-neolix-3-air",
+		"Description": "A Neo ally from another dimension is now in S3AIR",
+		"URL": "https://github.com/FireNight097/Proyect-Neolix-3-AIR.git",
+		"ModVersion": "1.5",
+		"GameVersion": "22.09.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "UniqueMusics",
+                               "DisplayName": "UKAESS BGM's Options",
+                               "Variable": "unique.musics",
+                               "Category": "Compability options",
+                               "DefaultValue": "0",
+                               "Options":
+                               {
+                                       "0": "S3&K's Covers",
+                                       "1": "16-Island Bit Songs",
+                                       "2": "Covers of Games Songs",
+                                       "3": "ALL"
+                               }
+                         },
+
+                         {
+                               "InternalName": "UniqueMusics",
+                               "DisplayName": "Dimensional Rivals Unique BGM",
+                               "Variable": "dimensional.compability",
+                               "Category": "Compability options",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Disable",
+                                       "1": "Enable"
+                               }
+                         }
+                ]
+         }
+}

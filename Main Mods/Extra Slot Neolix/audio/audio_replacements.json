@@ -1,0 +1,22 @@
+{
+
+        // AIZ 1
+        "01_lix": { "File": "AIZ 1-Neo.ogg", "Type": "Music", "Name": "Emerald Island Act 1 |8-bit|" },
+        "01_lix_Fast": { "File": "AIZ 1-Neo F.ogg", "Type": "Music", "Name": "Emerald Island Act 1 |8-bit| (Fast)" },
+
+        // ICZ 2
+        "0c_lix": { "File": "ICZ 2-Neo.ogg", "Type": "Music", "LoopStart": "3495677", "Name": "Ice Star Act 2 |8-bit|" },
+        "0c_lix_Fast": { "File": "ICZ 2-Neo F.ogg", "Type": "Music", "LoopStart": "2793488", "Name": "Ice Star Act 2 |8-bit| (Fast)" },
+
+        // SOZ 2
+        "12_lix": { "File": "SOZ 2-Neo.ogg", "Type": "Music", "Name": "Mirrotropolis Act 2 |8-bit|" },
+        "12_lix_Fast": { "File": "SOZ 2-Neo F.ogg", "Type": "Music", "Name": "Mirrotropolis Act 2 |8-bit| (Fast)" },
+
+        // LRZ 2
+        "14_lix": { "File": "LRZ 2-Neo.ogg", "Type": "Music", "LoopStart": "304666", "Name": "Lava Zero Act 2 |8-bit|" },
+        "14_lix_Fast": { "File": "LRZ 2-Neo F.ogg", "Type": "Music", "Name": "Lava Zero Act 2 |8-bit| (Fast)" },
+
+        // SpeedShoes Music
+        "Bike_Beat": { "File": "Speed Shoes Theme - Neolix 3 AIR.ogg", "Type": "Music", "Name": "Euro Speedshoes" }
+
+}

@@ -1,0 +1,154 @@
+{
+	"Metadata":
+	{
+		"Name": "FireNight097's Music Recopilation Cassette",
+		"Author": "FireNight097",
+		"UniqueID": "neolix-3-air-cassette",
+		"Description": "A collection of music that i like and music made by me, also a custom function in the title carts",
+		"URL": "https://github.com/FireNight097/Proyect-Neolix-3-AIR.git",
+		"ModVersion": "2.0",
+		"GameVersion": "22.09.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "MixAIZ1",
+                               "DisplayName": "Angel Island Act 1 BGM",
+                               "Variable": "aiz1.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "2",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "(Insert a Music name here)",
+                                       "2": "Bonus - Salad Plain Past"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixMGZ1",
+                               "DisplayName": "Marble Garden Act 1 BGM",
+                               "Variable": "mgz1.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "2",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "(Insert a Music name here)",
+                                       "2": "Bonus - Sylvania Castle Act 2"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixCNZ1",
+                               "DisplayName": "Carnival Night Act 2 BGM",
+                               "Variable": "cnz1.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "2",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "(Insert a Music name here)",
+                                       "2": "Bonus - White Park Act 2"
+                               }
+                         },
+                         
+                         {
+                               "InternalName": "MixFBZAct2",
+                               "DisplayName": "Flying Battery Act 2 BGM",
+                               "Variable": "fbz2.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "2",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Sky Fortress Act 2"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixBoss",
+                               "DisplayName": "Main Boss BGM",
+                               "Variable": "boss.setting",
+                               "Category": "Levels Mix",
+                               "DefaultValue": "2",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "(Insert a Music name here)",
+                                       "2": "Bonus - Kirby Boss Medley"
+                               }
+                         },
+                         
+                         {
+                               "InternalName": "ALBGMix",
+                               "DisplayName": "Azure Lake BGM",
+                               "Variable": "alz.setting",
+                               "Category": "Competition Mix",
+                               "DefaultValue": "2",
+                               "Options":
+                               {
+                                       "0": "Vanilla",
+                                       "1": "(Insert a muisc name here)",
+                                       "2": "Bonus - Break The Targets"
+                               }
+                         },
+
+                         {
+                               "InternalName": "EMBGMix",
+                               "DisplayName": "Emerald Mine BGM",
+                               "Variable": "emz.setting",
+                               "Category": "Competition Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla",
+                                       "1": "Euro Bike Battle COMPLETE\n        (In Rework)"
+                               }
+                         },
+
+                         {
+                               "InternalName": "MixTitleScreen",
+                               "DisplayName": "Title Screen BGM",
+                               "Variable": "title.screen",
+                               "Category": "Jingles Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Vanilla Option",
+                                       "1": "A new place, another Adventure"
+                               }
+                         },
+
+                         {
+                               "InternalName": "EndingBGM",
+                               "DisplayName": "Ending BGM",
+                               "Variable": "ending.setting",
+                               "Category": "Misc Mix",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "(insert a Music Name Here)",
+                                       "2": "Bonus - Megamix Knuckles Ending"
+                               }
+                         },
+                         
+                         {
+                               "InternalName": "InfoDisplay",
+                               "DisplayName": "Diferent title cart info",
+                               "Variable": "info.display",
+                               "Category": "Custom Function - Information about the songs",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Off",
+                                       "1": "On"
+                               }
+                         }
+                ]
+        }
+}

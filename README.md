@@ -32,15 +32,11 @@ Una Selección de varias musicas que me gustan y otras creadas por mi.
 Aqui se encuentran algunas cosas e ideas que se me ocurieron durante el tiempo
 [Se iran sumando mas cosas durante el desarrollo de los mismos]
 
-[Versión espejo de Neolix]
-![Mirror Neolix (Pink) (Kirby Form)](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/a408fb55-90c9-4d47-b8f6-0daab9b385b2)
-
-[Una variación azul porque...¿Porque no?]
-![Mirror Neolix (Blue) (Kirby Form) ](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/f80ac0ad-d293-4679-b27e-eb32db8df104)
-
 [Una versión temprana de Neolix]
 ![Neolix (Beta Old Design) ](https://github.com/FireNight097/Proyect-Neolix-3-AIR/assets/146289185/e9b97d71-80b0-4303-bdec-fd517fc9c840)
 
 Si quieres ver el desarrollo de los proyectos, usa este link.
 
 https://github.com/FireNight097/Proyect-Neolix-3-AIR-Old-Version.git
+
+CANCELADO
